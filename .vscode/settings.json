@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/15746d8c-a395-4367-a38d-9f45826a6dad/resourceGroups/cosmos-db-practice/providers/Microsoft.Web/sites/cosmos-db-task",
+  "appService.deploySubpath": "."
+}
